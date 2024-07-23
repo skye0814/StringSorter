@@ -1,0 +1,24 @@
+﻿{
+  "settings": {
+    "rules": {
+      "documentationRules": {
+        "documentExposedElements": false,
+        "documentInternalElements": false
+      },
+      "orderingRules": {
+        "usingDirectivesPlacement": "preserve",
+        "elementOrder": [
+          "kind",
+          "accessibility",
+          "constant",
+          "static",
+          "readonly",
+          "type"
+        ]
+      },
+      "maintainabilityRules": {
+        "maxLineLength": 120
+      }
+    }
+  }
+}
